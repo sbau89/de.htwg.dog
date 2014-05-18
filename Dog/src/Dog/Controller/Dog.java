@@ -1,7 +1,8 @@
-package Dog.Model;
+package Dog.Controller;
 
 
 import Dog.Controller.Controller;
+import Dog.Model.Model;
 import Dog.Model.Model;
 import Dog.View.View;
 
